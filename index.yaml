@@ -1,0 +1,13 @@
+apiVersion: v1
+entries:
+  cert-manager-webhook-bunny:
+  - apiVersion: v1
+    appVersion: 0.1.1
+    created: "2024-05-06T18:47:37.600721466Z"
+    description: Allow cert-manager to solve DNS challenges using Bunny.net DNS API
+    digest: 52b1b3546e95f10fcb446da1fe1f725f49c5c75ff9a56d88f9d69930316a4e09
+    name: cert-manager-webhook-bunny
+    urls:
+    - https://github.com/euh2/cert-manager-webhook-bunny/releases/download/cert-manager-webhook-bunny-0.1.1/cert-manager-webhook-bunny-0.1.1.tgz
+    version: 0.1.1
+generated: "2024-05-06T18:47:37.600730603Z"
